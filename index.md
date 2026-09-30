@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Title: AJ's PLAYGROUND!
 ---
